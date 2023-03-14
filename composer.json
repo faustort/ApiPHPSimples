@@ -1,0 +1,17 @@
+{
+    "name": "senac/api-php-simples",
+    "autoload": {
+        "psr-4": {
+            "Senac\\ApiPhpSimples\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^15.2"
+    }
+}
